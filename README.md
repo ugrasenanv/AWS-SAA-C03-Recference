@@ -33,20 +33,37 @@ Why is the SAA-C03 certification valuable?
 ### Reference Matirials
 
  https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03/
+ 
  https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
+ 
  https://aws.amazon.com/certification/certified-solutions-architect-associate/
+ 
  https://www.whizlabs.com/aws-solutions-architect-associate/
+ 
  https://www.whizlabs.com/blog/aws-solutions-architect-associate-exam/
+ 
  https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03-prep/
+ 
  https://www.flane.de/en/certification/acsaa
+ 
  https://www.jeffersonfrank.com/insights/aws-certifications-is-it-worth-it/
+ 
  https://www.pluralsight.com/paths/aws-certified-solutions-architect-associate-saa-c03
+ 
  https://www.adept.co.zw/aws/aws-certified-cloud-sysops-administrator-associate/
+ 
  https://dev.to/gaurav2988/how-i-cleared-my-aws-solutions-architect-associate-certification-exam-2024-30i1
 
 
  https://github.com/Ditectrev/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#table-of-contents
 
  https://www.testpreplab.com/SAA-C03-free-practice-test/
- 
+
+ [AWS SAA-C03 Dumps Part 1.pdf](https://github.com/user-attachments/files/20289024/AWS.SAA-C03.Dumps.Part.1.pdf)
+
+
+[AWS SAA-C03 Dumps Part 2.pdf](https://github.com/user-attachments/files/20289391/AWS.SAA-C03.Dumps.Part.2.pdf)
+
+[AWS SAA-C03 Dumps Part 3.pdf](https://github.com/user-attachments/files/20289976/AWS.SAA-C03.Dumps.Part.3.pdf)
+
 
