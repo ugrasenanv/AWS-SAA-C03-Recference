@@ -122,6 +122,3 @@ Refresh the page, and once the validation is completed, the status of the certif
 
 AWS Certificate Manager (ACM) simplifies SSL/TLS certificate management, making it easier for businesses to secure their applications, internal resources, and websites. By providing automated renewals, integration with AWS services, and robust encryption management, ACM saves time and ensures continuous security for your resources. Whether you're securing a high-traffic website or protecting internal AWS resources, ACM provides a seamless solution.
 
----
-
-Feel free to adjust anything specific that you may want to elaborate more on, but this version should offer a clear, structured, and easy-to-read flow of information. Let me know if you need any more adjustments or help!
