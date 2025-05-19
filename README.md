@@ -44,3 +44,7 @@ Why is the SAA-C03 certification valuable?
  https://www.adept.co.zw/aws/aws-certified-cloud-sysops-administrator-associate/
  https://dev.to/gaurav2988/how-i-cleared-my-aws-solutions-architect-associate-certification-exam-2024-30i1
 
+
+ https://github.com/Ditectrev/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#table-of-contents
+ 
+
