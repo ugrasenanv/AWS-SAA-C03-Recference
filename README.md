@@ -46,5 +46,7 @@ Why is the SAA-C03 certification valuable?
 
 
  https://github.com/Ditectrev/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers?tab=readme-ov-file#table-of-contents
+
+ https://www.testpreplab.com/SAA-C03-free-practice-test/
  
 
